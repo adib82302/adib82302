@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I am an undergraduate Computer Engineering student at Stevens Institute of Technology.
-- The programming languages I currently know are C/C++, Java, Python, VHDl, and Matlab
-- Interested in learning about AI, Machine Learning, and Image Processing for Software
-- Interested in learning about Digital System Design and Embedded Systems for Hardware
+- I am an graduate Computer Engineering student at Columbia University. My classes consist of Digial VLSI design, Advanced Logic Design, Formal Verification, and Analog Electornic     Circuits. 
+- The programming languages I currently know are Verilog, C/C++, Java, Python, VHDl, and Matlab.
+- Experience using Cadence to for circuit schematic, simulation, and layout.
+- Experience with ModelSim, and PrimeTime for the Verilog Digital Design Flow.
+
 
